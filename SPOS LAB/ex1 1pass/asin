@@ -1,0 +1,6 @@
+lda 5000
+add a
+sub b
+mov r
+sta 7000
+hlt

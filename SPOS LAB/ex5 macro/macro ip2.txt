@@ -1,0 +1,7 @@
+CLEARMEM 00
+pp 2
+kp 1
+ev 1
+mdtp 1
+kpdtp 1
+sstp 4
